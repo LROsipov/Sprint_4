@@ -1,7 +1,7 @@
-package Test;
+package test;
 
-import Core.BaseTest;
-import Page.MainPage;
+import сore.BaseTest;
+import page.MainPage;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
