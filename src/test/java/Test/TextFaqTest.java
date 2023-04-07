@@ -1,6 +1,6 @@
 package test;
 
-import сore.BaseTest;
+import core.BaseTest;
 import page.MainPage;
 import org.junit.Test;
 import org.junit.runner.RunWith;

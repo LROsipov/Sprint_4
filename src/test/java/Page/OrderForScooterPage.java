@@ -1,6 +1,6 @@
 package page;
 
-import сore.BasePage;
+import core.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

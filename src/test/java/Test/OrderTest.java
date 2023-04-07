@@ -1,6 +1,6 @@
 package test;
 
-import сore.BaseTest;
+import core.BaseTest;
 import page.MainPage;
 import page.OrderForRentPage;
 import page.OrderForScooterPage;
